@@ -1,6 +1,8 @@
 # Shelf - React Product Explorer
 
-   ![Shelf screenshot](screenshot.png)
+ **Live demo:** https://shelf-store-products.vercel.app/
+ 
+ ![Shelf screenshot](screenshot.png)
 
 A responsive product store front-end built with React and Vite.
 Product data comes from the free DummyJSON demo API (no API key needed).
